@@ -1,0 +1,2 @@
+- 150 minutes of middle intensity cardio 30 min 5 days a week
+- 75 minutes of high intensity cardio 25 three days a week

@@ -1,0 +1,5 @@
+- IT
+	- 75 hrs 3 credits 60% coursework tutorial test 4-5 weeks
+	- the 3rd tutorial 25% final test Nov 18
+	-
+-
