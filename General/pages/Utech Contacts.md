@@ -1,0 +1,2 @@
+- abowen-mighty@utech.edu.jm
+- tjhewitt@utech.edu.jm

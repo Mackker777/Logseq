@@ -1,0 +1,34 @@
+- All text should be double-spaced
+- 1 inch margins
+- page header at top of each page
+- page numbers flush right
+- tittle of paper flush left
+	- ==also called the running head shouldn't pass 50 characters including spacing and punctuation==
+- Fonts:
+	- 11 point calibri, arial georgia
+	- 10 point lucida sans, computer modern
+	- 12 point times new roman
+- Sections
+	- Title Page: Title in upper and lowercase in the upper half of the page, centered, in boldface; no abbreviations or pointless words, one or two lines
+		- author's name: first name , middle initials and last name  ,do not use titles
+		- institutional affliation should be below the author's name
+		- ==Students paper should have: course number and name, instructor name assignment due date==
+		- Student example
+		- ![image.png](../assets/image_1724776907519_0.png){:height 512, :width 416}
+	- Professional: authors note should be beneath the institutional affiliation, not need in a paper
+	- https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/images/20200127APAProfTitlePage.png{:height 512, :width 416}
+		-
+	- Abstract: centered bold, do not ident paragraphs
+		- ==**may not required for student papers**==
+		- on the next line write a summary on the key points of the research,
+		- ==**This should not be more than 250 words, a single paragraph double spaced.**==
+		- should contain research topics, research questions, participants, methods, results, data analysis and conclusions
+		- ![h2el42ch.bmp](../assets/h2el42ch_1724778361209_0.bmp)
+		- https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/images/20200127APAAbstract.png
+		-
+	- Main Body
+	- ![image.png](../assets/image_1724778691203_0.png)
+	- ![image.png](../assets/image_1724778739652_0.png)
+	-
+	- References:
+	- ![image.png](../assets/image_1724778850683_0.png)
