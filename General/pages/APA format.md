@@ -14,7 +14,7 @@
 		- institutional affliation should be below the author's name
 		- ==Students paper should have: course number and name, instructor name assignment due date==
 		- Student example
-		- ![image.png](../assets/image_1724776907519_0.png){:height 512, :width 416}
+		- ![image.png](../assets/image_1724776907519_0.png){:height 545, :width 416}
 	- Professional: authors note should be beneath the institutional affiliation, not need in a paper
 	- https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/images/20200127APAProfTitlePage.png{:height 512, :width 416}
 		-
@@ -23,12 +23,13 @@
 		- on the next line write a summary on the key points of the research,
 		- ==**This should not be more than 250 words, a single paragraph double spaced.**==
 		- should contain research topics, research questions, participants, methods, results, data analysis and conclusions
-		- ![h2el42ch.bmp](../assets/h2el42ch_1724778361209_0.bmp)
+		- ![h2el42ch.bmp](../assets/h2el42ch_1724778361209_0.bmp){:height 936, :width 718}
 		- https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/images/20200127APAAbstract.png
 		-
 	- Main Body
-	- ![image.png](../assets/image_1724778691203_0.png)
+	- ![image.png](../assets/image_1724778691203_0.png){:height 477, :width 748}
 	- ![image.png](../assets/image_1724778739652_0.png)
 	-
-	- References:
+	- References: Should be done in alphabetical order
+	- (Smith, 2020, p. 170).
 	- ![image.png](../assets/image_1724778850683_0.png)
