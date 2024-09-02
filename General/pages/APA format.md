@@ -32,4 +32,11 @@
 	-
 	- References: Should be done in alphabetical order
 	- (Smith, 2020, p. 170).
+	- All lines after the first line of each entry in your reference list 
+	  should be indented one-half inch from the left margin. This is called 
+	  hanging indentation.
+	- All authors' names should be inverted (i.e., last names should be provided first).
+	- Authors' first and middle names should be written as initials.
+	- For example, the reference entry for a source written by Jane Marie Smith would begin with "Smith, J. M."
+	- If a middle name isn't available, just initialize the author's first name: "Smith, J."
 	- ![image.png](../assets/image_1724778850683_0.png)
