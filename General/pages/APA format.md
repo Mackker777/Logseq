@@ -27,6 +27,7 @@
 		- https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/images/20200127APAAbstract.png
 		-
 	- Main Body
+		- Abbreviations don have periods in apa format
 	- ![image.png](../assets/image_1724778691203_0.png){:height 477, :width 748}
 	- ![image.png](../assets/image_1724778739652_0.png)
 	-
